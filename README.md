@@ -1,5 +1,5 @@
 # Quote
-Simple Quote Microservice REST API using Spring Boot.  
+Simple Quote Microservice REST API using Spring Boot, Spring Cloud, H2 Database and Hibernate.  
 
 ### Infos:
 - Project built with Spring Tools Suite
